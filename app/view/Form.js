@@ -1,6 +1,6 @@
 Ext.define("FreeSwitch.view.Form", {
     extend: 'Ext.window.Window',
-    title: "Adicionar Ramal",
+    title: "Salvar Ramal",
     bodyPadding: 5,
     width: 300,
     modal: false,
